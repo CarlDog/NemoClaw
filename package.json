@@ -106,11 +106,11 @@
     "@oclif/core": "^4.10.5",
     "ajv": "^8.17.0",
     "execa": "^9.6.1",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.3.2",
     "p-retry": "^4.6.2",
     "qrcode-terminal": "^0.12.0",
-    "smol-toml": "1.7.0",
-    "undici": "8.10.0",
+    "smol-toml": "1.7.1",
+    "undici": "8.10.2",
     "yaml": "2.8.3"
   },
   "optionalDependencies": {
@@ -157,7 +157,7 @@
   "devDependencies": {
     "@commitlint/cli": "^20.5.0",
     "@commitlint/config-conventional": "^20.5.0",
-    "@earendil-works/pi-coding-agent": "0.80.6",
+    "@earendil-works/pi-coding-agent": "0.85.1",
     "@j178/prek": "^0.3.6",
     "@types/node": "^25.5.2",
     "@vitest/coverage-v8": "^4.1.0",
@@ -170,6 +170,6 @@
     "tsx": "^4.21.0",
     "typebox": "1.1.38",
     "typescript": "6.0.3",
-    "vitest": "^4.1.9"
+    "vitest": "^5.0.1"
   }
 }
